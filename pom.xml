@@ -23,7 +23,7 @@
     <properties>
         <java.version>1.7</java.version>
         <mockito.version>1.9.5</mockito.version>
-        <junit.version>4.11</junit.version>
+        <junit.version>4.13.1</junit.version>
         <spring.version>4.1.6.RELEASE</spring.version>
         <docker.image.prefix>captcha</docker.image.prefix>
         <maven.surefire.version>2.17</maven.surefire.version>
